@@ -29,7 +29,7 @@ key只会显示一次，只有一次！！！记得妥善保管！如果key没�
 
 下放有iPhone的快捷指令链接：
 
-https://www.icloud.com/shortcuts/15e5d5fd4b3147f5b0a03946f7c66b2b
+
 
 把你的key粘贴到如上图所示的位置，注意！是全选替换！
 
