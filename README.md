@@ -3,8 +3,7 @@ chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android
 
 # 创建账号/登录账号
 
-​	第一次使用chatGPT，先到chatGPT的官网新建账号：https://chat.openai.com/auth/login![image-20230210003127112](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230210003127112.png)
-
+​	第一次使用chatGPT，先到chatGPT的官网新建账号：
 点击“sign up”进行账号的注册，如果有账号的话点击“log in”进行登录。
 
 ![image-20230210003249233](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230210003249233.png)
