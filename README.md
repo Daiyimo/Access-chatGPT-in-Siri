@@ -28,9 +28,14 @@ key只会显示一次，只有一次！！！记得妥善保管！如果key没�
 # 下载捷径
 
 下放有iPhone的快捷指令链接：
+1.0 单次问答
+https://www.icloud.com/shortcuts/ddb23c1a0d29406ab82c26cef8621974
+1.1 单次问答带QA
+https://www.icloud.com/shortcuts/b7843588bb11435f90e04a992c24e256
+2.0 多次连续回答
+https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 
-https://www.icloud.com/shortcuts/415014e865a0481c8ab7dfcab78edb33
-
+##由于版本过多，拷贝下来之后要重命名，例如：smart Siri 1.0 ==> smart Siri
 
 把你的key粘贴到如上图所示的位置，注意！是全选替换！
 
