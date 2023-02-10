@@ -38,7 +38,7 @@ https://www.icloud.com/shortcuts/b7843588bb11435f90e04a992c24e256
 2.0 多次连续回答：
 https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 
-##由于版本过多，拷贝下来之后要重命名，例如：smart Siri 1.0 ==> smart Siri
+## 由于版本过多，拷贝下来之后要重命名，例如：smart Siri 1.0 ==> smart Siri
 
 把你的key粘贴到如上图所示的位置，注意！是全选替换！
 
