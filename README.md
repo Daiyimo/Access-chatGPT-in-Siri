@@ -48,6 +48,9 @@ https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 
 这样就完成啦！
 
+# [开发不易，请杯瑞幸吧](https://afdian.net/a/Daiyimo/plan)
+https://afdian.net/a/Daiyimo/plan
+
 # 使用说明
 
 两种输入方法：
