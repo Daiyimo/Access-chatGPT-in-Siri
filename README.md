@@ -58,7 +58,6 @@ https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 
 # 补充
 部分手机会遇到文本弹窗的情况，请先用Siri语音运行一次Smart Siri，进行第一次问答，一路点允许，直到报错。再次从快捷指令中打开SmartT Siri即可正常使用！！！
-目前能力有限，仅能单次对话，后续会改进！
 
 目前只支持iPhone的快捷指令，还不知道Android，在做了在做了，如有更好的点子欢迎联系我！
 ## 体验交流群
