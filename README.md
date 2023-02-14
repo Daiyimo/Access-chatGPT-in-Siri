@@ -38,7 +38,7 @@ https://www.icloud.com/shortcuts/b7843588bb11435f90e04a992c24e256
 2.0 多次连续回答：
 https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 
-没魔法的可以参考这个：
+没魔法没Key可以参考这个：
 https://aichatgpt.me/Siri.html
 
 网页版免费无需接口地址：
