@@ -41,6 +41,9 @@ https://www.icloud.com/shortcuts/18d3f2621abb424c9bc85a46ede39142
 2.1 修复弹窗bug：
 https://www.icloud.com/shortcuts/809977bb030f4c9f9ce57a357e3ddf0c
 
+2.2 新增无需手动点击继续对话功能；新增“再见”互动结束语；更新了连续对话显示QA；优化了文本弹窗的问题；优化了格式缩进问题
+https://www.icloud.com/shortcuts/cebc3ec416a24a91a60405dd6cdf7708
+
 没魔法没Key可以参考这个：
 https://aichatgpt.me/Siri.html
 
@@ -81,4 +84,4 @@ bug会在下个版本进行修复！！！
 ## 体验交流群
 # 一群已满加二群
 # 二群已满加三群
-![微信二群](images/微信三群.jpg)
+# 三群已满请稍等
