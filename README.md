@@ -1,5 +1,6 @@
 # Access-chatGPT-in-Siri
 Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的Apple产品，后续会更新Android版本。
+如果觉得有用，尽可能的点Star！！！感谢！！
 
 # 创建账号/登录账号
 
