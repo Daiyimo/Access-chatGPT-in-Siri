@@ -46,9 +46,11 @@ https://www.icloud.com/shortcuts/809977bb030f4c9f9ce57a357e3ddf0c
 https://www.icloud.com/shortcuts/cebc3ec416a24a91a60405dd6cdf7708
 
 
-［预告］
 3.0 已支持openAI的官方接口的AI绘图功能，同一个key！！
+https://www.icloud.com/shortcuts/67e9b7ccb15c4bedb4faf6d98f31adec
+
 3.1 同时支持对话和画图的功能，支持语音选择功能，新增API的初步验证，更改默认回答显示QA，并支持对话的连续性（画图功能的对话连续性仍存在一定bug，已在修复）
+https://www.icloud.com/shortcuts/ca012c8fd4d14f6babcd4f230e65a495
 
 没魔法没Key可以参考这个：
 https://aichatgpt.me/Siri.html
