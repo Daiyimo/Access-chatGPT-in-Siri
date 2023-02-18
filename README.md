@@ -28,6 +28,8 @@ key只会显示一次，只有一次！！！记得妥善保管！如果key没�
 
 # 下载捷径
 # 自3.2起不再进行开源，可以到我的爱发电里进行定制！！！
+[点此定制](https://afdian.net/a/Daiyimo/plan)
+
 下面放有快捷指令链接：
 
 1.0 单次问答：
@@ -69,7 +71,7 @@ https://aichatgpt.me/
 这样就完成啦！
 
 # [开发不易，请杯瑞幸吧](https://afdian.net/a/Daiyimo/plan)
-https://afdian.net/a/Daiyimo/plan
+
 
 # 使用说明
 
