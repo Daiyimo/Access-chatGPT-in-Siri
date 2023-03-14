@@ -55,6 +55,7 @@ https://www.icloud.com/shortcuts/67e9b7ccb15c4bedb4faf6d98f31adec
 https://www.icloud.com/shortcuts/ca012c8fd4d14f6babcd4f230e65a495
 
 4.0新增GPT3.5的模型+连续对话！！（国内IP响应慢，优先全局科学！）
+4.1新增GPT4.0的模型+连续对话！！（国内IP响应慢，优先全局科学！）
 
 没魔法没Key可以玩这个：
 https://chat.forchange.cn/
