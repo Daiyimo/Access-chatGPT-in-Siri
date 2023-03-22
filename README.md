@@ -2,7 +2,7 @@
 Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的Apple产品，后续会更新Android版本。
 如果觉得有用，尽可能的点Star！！！感谢！！
 
-## 通知(也就是说以后不科学就无法使用了，后续会考虑转发服务器)：
+## 通知(也就是说以后不科学就无法使用了)：
 目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不就得将来停用
 如图
 ![image-停用通知](images/停用通知.jpg)
@@ -11,6 +11,7 @@ Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的App
 
 ​第一次使用chatGPT时，先到chatGPT的官网新建账号：
 ![image-20230210003127112](images/image-20230210003127112.png)
+
 点击“Sign up”进行账号的注册，如果有账号的话则点击“Log in”登录。
 
 ![image-20230210003249233](images/image-20230210003249233.png)
