@@ -2,6 +2,11 @@
 Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的Apple产品，后续会更新Android版本。
 如果觉得有用，尽可能的点Star！！！感谢！！
 
+## 通知(也就是说以后不科学就无法使用了，后续会考虑转发服务器)：
+目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不就得将来停用
+如图
+![image-停用通知](images/停用通知.jpg)
+
 # 创建账号/登录账号
 
 ​第一次使用chatGPT时，先到chatGPT的官网新建账号：
@@ -103,4 +108,5 @@ bug会在下个版本进行修复！！！
 # 八群已满加九群
 # 九群已满加十群
 # 十群已满加十一群
-![image-微信十一群](images/微信十一群.jpg)
+# 最后一个十二群
+![image-十二群](images/十二群.jpg)
