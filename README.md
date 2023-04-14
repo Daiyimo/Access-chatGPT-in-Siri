@@ -3,7 +3,7 @@ Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的App
 如果觉得有用，尽可能的点Star！！！感谢！！
 
 ## 通知(也就是说以后不科学就无法使用了)：
-目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不就得将来停用
+目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不久的将来停用
 如图
 ![image-停用通知](images/停用通知.jpg)
 
