@@ -5,32 +5,8 @@ Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的App
 ## 通知(也就是说以后不科学就无法使用了)：
 目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不就得将来停用
 如图
-![image-停用通知](images/停用通知.jpg)
+![image-APP更新说明](images/APP更新说明.jpg)
 
-# 创建账号/登录账号
-
-​第一次使用chatGPT时，先到chatGPT的官网新建账号：
-![image-20230210003127112](images/image-20230210003127112.png)
-
-点击“Sign up”进行账号的注册，如果有账号的话则点击“Log in”登录。
-
-![image-20230210003249233](images/image-20230210003249233.png)
-
-可以用大多数的邮箱进行账号的注册，包括但不限于QQ邮箱、163邮箱、google邮箱、教育邮箱等；
-![image-20230210003423746](images/image-20230210003423746.png)
-如果遇到这种情况，那就代表着chatGPT用户过多，多刷新几次就好了。
-
-
-
-登录之后进入这个网站进行API的申领：https://platform.openai.com/account/api-keys
-
-![image-20230210003548551](images/image-20230210003548551.png)
-
-登录账号，点击“Create New Security Key”，进行API key的创建![image-20230210003635094](images/image-20230210003635094.png)
-
-
-
-key只会显示一次，只有一次！！！记得妥善保管！如果key没来得及保存的话，只能重新生成！！key的格式：sk-xxxxxx。最好记录上，以后方便随时调用。
 
 # 下载捷径
 # 自3.2起不再进行开源，可以到我的爱发电里进行定制！！！
@@ -63,11 +39,12 @@ https://www.icloud.com/shortcuts/ca012c8fd4d14f6babcd4f230e65a495
 4.0新增GPT3.5的模型+连续对话！！（国内IP响应慢，优先全局科学！）
 [4.0在这](https://afdian.net/a/Daiyimo/plan)
 
-4.1新增GPT4.0的模型+连续对话！！（国内IP响应慢，优先全局科学！）
+4.1需要配合ChatGPT官方APP使用，新增GPT4.0的模型+连续对话！！（国内IP响应慢，优先全局科学！）
 [4.1在这](https://afdian.net/a/Daiyimo/plan)
 
-没魔法没Key可以玩这个：
-https://chat.forchange.cn/
+2023.6.8更新
+今日ChatGPTAPP开放官方接口，4.0正式开放！！！
+![image-调用官方接口](images/调用官方接口.jpg)
 
 ## 由于版本过多，拷贝下来之后要重命名，例如：smart Siri 1.0 ==> smart Siri
 
@@ -100,6 +77,7 @@ bug会在下个版本进行修复！！！
 部分手机会遇到文本弹窗的情况，请先用Siri语音运行一次Smart Siri，进行第一次问答，一路点允许，直到报错。再次从快捷指令中打开SmartT Siri即可正常使用！！！
 
 目前只支持iPhone的快捷指令，还不知道Android的实现方法，在做了在做了，如有更好的点子欢迎联系我！
+
 # 体验交流群
 ## 一群已满加二群
 ## 二群已满加三群
