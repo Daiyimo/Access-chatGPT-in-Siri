@@ -4,7 +4,7 @@ Siri接入ChatGPT指南。目前仅限iPhone端及其他支持快捷指令的App
 
 ## 通知(也就是说以后不科学就无法使用了)：
 目前code-cushman:001、code-cushman:002、code-davinci:001、code-davinci:002已被openAI通知将在不就得将来停用
-如图
+目前ChatGPT官方的APP支持快捷指令直接调用，如图：
 ![image-APP更新说明](images/APP更新说明.jpg)
 
 
@@ -42,15 +42,13 @@ https://www.icloud.com/shortcuts/ca012c8fd4d14f6babcd4f230e65a495
 4.1需要配合ChatGPT官方APP使用，新增GPT4.0的模型+连续对话！！（国内IP响应慢，优先全局科学！）
 [4.1在这](https://afdian.net/a/Daiyimo/plan)
 
-2023.6.8更新
+
+**2023.6.8更新**
+
 今日ChatGPTAPP开放官方接口，4.0正式开放！！！
 ![image-调用官方接口](images/调用官方接口.jpg)
 
 ## 由于版本过多，拷贝下来之后要重命名，例如：smart Siri 1.0 ==> smart Siri
-
-把你的key粘贴到如上图所示的位置，注意！是全选替换！
-
-![image-20230210004316760](images/image-20230210004316760.png)
 
 
 
